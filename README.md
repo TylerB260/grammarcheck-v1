@@ -7,4 +7,4 @@ If you answer the test incorrectly, you are kicked from the server.
 
 If you answer the test correctly, you are permitted access to the server and are never asked again.
 
-[Facepunch thread](http://www.facepunch.com/threads/showthread.php?t=1118490)
+[Facepunch thread.](http://www.facepunch.com/threads/showthread.php?t=1118490)
